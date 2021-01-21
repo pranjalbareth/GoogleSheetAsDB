@@ -1,6 +1,6 @@
 # studentapp
 
-A new Flutter project.
+A new Flutter project using Spreadsheet as a DB 🤓
 
 ## Getting Started
 
