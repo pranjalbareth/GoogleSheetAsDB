@@ -37,7 +37,9 @@ class _HomeState extends State<Home> {
 
   @override
   void initState() {
-    getFeedbackFromSheet();
+    getFeedbackFromSheet().then((response) {
+      setState(() {});
+    });
     super.initState();
   }
 
