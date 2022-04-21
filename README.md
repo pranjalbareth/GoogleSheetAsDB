@@ -1,4 +1,4 @@
-# Student App
+# <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="45px"/> GoogleSheetAsDB
 
 A new Flutter project using Spreadsheet as a DB 🤓
 
