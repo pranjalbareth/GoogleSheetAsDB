@@ -1,4 +1,4 @@
-# studentapp
+# Student App
 
 A new Flutter project using Spreadsheet as a DB 🤓
 
